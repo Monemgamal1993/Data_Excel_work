@@ -1,4 +1,4 @@
-Difrent between Casual and Members ,,,,
+Diffenrent between Casual and Members by % of avg Ride length ,,,,
 ,,,,
 Average of Ride_length ,Column Labels,,,
 Row Labels,casual,member,Grand Total,
@@ -21,7 +21,7 @@ Friday,9972,,,
 Saturday,12910,,,
 Grand Total,84776,,,
 ,,,,
-Count of Ride_length ,Column Labels,,,
+Count of rides for casual and memeber  ,Column Labels,,,
 Row Labels,casual,member,(blank),Grand Total
 Sunday,6475,11440,,17915
 Monday,2681,8064,,10745
@@ -34,7 +34,7 @@ Saturday,4068,8842,,12910
 Grand Total,23628,61148,,84776
 ,,,,
 ,,,,
-Count of member_casual,Column Labels,,,
+Top 10 Stations   ,Column Labels,,,
 Row Labels,casual,member,Grand Total,
 Broadway & Barry Ave,161,444,605,
 Clark St & Armitage Ave,175,451,626,
