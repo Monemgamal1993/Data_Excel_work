@@ -1,0 +1,49 @@
+Difrent between Casual and Members ,,,,
+,,,,
+Average of Ride_length ,Column Labels,,,
+Row Labels,casual,member,Grand Total,
+Wednesday,86.53%,75.98%,72.50%,
+Monday,85.27%,82.94%,80.64%,
+Thursday,102.50%,93.14%,87.69%,
+Sunday,80.58%,124.53%,106.98%,
+Tuesday,115.55%,101.16%,110.49%,
+Saturday,99.45%,120.75%,113.40%,
+Friday,151.29%,85.61%,115.98%,
+Grand Total,100.00%,100.00%,100.00%,
+Number of rides for users by day of the week ,,,,
+Row Labels,Count of ride_id,,,
+Sunday,17915,,,
+Monday,10745,,,
+Tuesday,12813,,,
+Wednesday,8718,,,
+Thursday,11703,,,
+Friday,9972,,,
+Saturday,12910,,,
+Grand Total,84776,,,
+,,,,
+Count of Ride_length ,Column Labels,,,
+Row Labels,casual,member,(blank),Grand Total
+Sunday,6475,11440,,17915
+Monday,2681,8064,,10745
+Tuesday,3656,9157,,12813
+Wednesday,1799,6919,,8718
+Thursday,2439,9264,,11703
+Friday,2510,7462,,9972
+Saturday,4068,8842,,12910
+(blank),,,,
+Grand Total,23628,61148,,84776
+,,,,
+,,,,
+Count of member_casual,Column Labels,,,
+Row Labels,casual,member,Grand Total,
+Broadway & Barry Ave,161,444,605,
+Clark St & Armitage Ave,175,451,626,
+Clark St & Elm St,246,604,850,
+Clark St & Schiller St,169,407,576,
+Dearborn St & Erie St,185,545,730,
+Desplaines St & Kinzie St,204,516,720,
+Larrabee St & Webster Ave,172,404,576,
+St. Clair St & Erie St,93,593,686,
+Stockton Dr & Wrightwood Ave,164,420,584,
+Wabash Ave & Grand Ave,206,408,614,
+Grand Total,1775,4792,6567,
